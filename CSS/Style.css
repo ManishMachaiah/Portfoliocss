@@ -1,0 +1,145 @@
+body{
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+hr{
+    border: solid 0.5rem gray;
+    border-style: none;
+    border-bottom-style: dotted;
+    width: 10%;
+}
+div{
+    
+    margin: 0;
+}
+h1
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Dr Sugiyama', cursive;
+    font-size: 3.125rem; /*50/16px to get 3.125rem*/
+    font-weight: 100;
+    color: #112d4e;
+}
+h2
+{
+    color: #3f72af;.
+}
+h3,a{
+    color: #112d4e;
+}
+.skill-row .msize1
+{
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row .msize2
+{
+    height: 25%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.top-container 
+{
+   text-align: center;
+   position: relative;
+   padding-top: 20px;
+   background: linear-gradient(to bottom, #1c92d2, #f2fcfe);
+}  
+.middle-container
+{
+    background: linear-gradient(180deg, rgba(242,252,254,1) 0%, rgba(28,146,210,1) 35%, rgba(242,252,254,1) 100%);
+}
+.bottom-container
+{
+    text-align: center;
+    
+    margin: auto;
+    padding-top: 30px;
+
+}
+.footer-link
+{
+    margin: 0px 10px;
+    text-decoration: none;
+}
+.footer-link:hover
+{
+    
+    font-weight: 800;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+.profile
+{
+    width: 50%;
+    margin: auto;
+    text-align: Center;
+}
+
+.profile .msize
+{
+    width: 25%;
+    
+}
+.skills h2, .contact-me h2
+{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.btn
+{
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: White;
+    position: static;
+} 
+.contact-me
+{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+} 
+.web
+{
+    color: gray;
+    font-style: italic;
+    font-weight: 500;
+}
+.foot
+{
+    margin-top: 50px;
+}
+span
+{
+ 
+    
+}
+p
+{
+font-weight: normal;
+line-height: 2;
+}
+.cloud2
+{
+    position: absolute;
+    left:20%;
+}
+.cloud1
+{
+    position: relative;
+    left: 20%;
+
+}
